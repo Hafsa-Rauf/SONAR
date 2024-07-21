@@ -1,0 +1,69 @@
+@font-face {
+  font-family: ayer_bold_italic;
+  src: url("assets/fonts/ayer/ayer_bold_italic.ttf");
+}
+@font-face {
+  font-family: ayer_med_italic;
+  src: url("assets/fonts/ayer/ayer_med_italic.ttf");
+}
+@font-face {
+  font-family: ayer_reg_italic;
+  src: url("assets/fonts/ayer/ayer_regular_italic.ttf");
+}
+@font-face {
+  font-family: ayer_semibold_italic;
+  src: url("assets/fonts/ayer/ayer_semibold_italic.ttf");
+}
+@font-face {
+  font-family: hk_guise_semibold;
+  src: url("assets/fonts/hk_guise/hk_guise_semibold.otf");
+}
+@font-face {
+  font-family: hk_med;
+  src: url("assets/fonts/hk_guise/hk_medium.otf");
+}
+@font-face {
+  font-family: hk_reg;
+  src: url("assets/fonts/hk_guise/hk_regular.otf");
+}
+@font-face {
+  font-family: messina_bold;
+  src: url("assets/fonts/messina/messina_bold.ttf");
+}
+@font-face {
+  font-family: messina_light;
+  src: url("assets/fonts/messina/messina_light.ttf");
+}
+@font-face {
+  font-family: messina_reg;
+  src: url("assets/fonts/messina/messina_reg.ttf");
+}
+@font-face {
+  font-family: messina_semibold;
+  src: url("assets/fonts/messina/messina_semibold.ttf");
+}
+@font-face {
+  font-family: stratos_bold;
+  src: url("assets/fonts/stratos/stratos_bold.otf");
+}
+@font-face {
+  font-family: stratos_med;
+  src: url("assets/fonts/stratos/stratos_medium.otf");
+}
+@font-face {
+  font-family: stratos_reg;
+  src: url("assets/fonts/stratos/stratos_reg.otf");
+}
+@font-face {
+  font-family: stratos_semibold;
+  src: url("assets/fonts/stratos/stratos_semibold.otf");
+}
+@font-face {
+  font-family: messina_sans;
+  src: url("assets/fonts/messina/messina\ sans.ttf");
+}
+:root {
+  --black: #181816;
+  --white: #e6e5dd;
+  --gray: #e6e5dd;
+}
